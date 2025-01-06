@@ -9,7 +9,7 @@ How are you'''
     print(s2.isdigit())
     print(res.isalnum())
     print(s1.isdigit())
-    print((s1+" ")*3)
+    print((s1+"\n")*3)
     print(s1 != s2)
     print(s1.format('%s'))
     print(s1[0:3])
